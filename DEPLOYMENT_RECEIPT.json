@@ -1,0 +1,14 @@
+{
+  "project": "albert-sabin-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "9wPHAYpG1eH2EagV3fQBXmBPyPMH8pFEAijxaRMf1XVB",
+  "vault_account": "Gk73gumgqdK15cHUmTWzvK2Fp6hj6tgsC4vRDP12MCe3",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "svZSTQ8SRV96mS7bbsGQtQ6AFPNWZZE2uRP8jnk8MFS4cthwy5eGcvn8XxobqP1dbPfN9PpeTfkubmScpkstZBE",
+  "account_tx": "2uvHRXXGHxbtfGKWyeEb44nGndh6KuiPfkDgiNc51NAbcgkz3TEToU3vtMhXh52SMXzaZ67UyUsjft4idaz77Td7",
+  "mint_tx": "uvKLHQVyjfZWuuokFzpoU4bfiUq8LBxx335YueQ8aD2xLhE5EYzHoTBaD6Vmw8DgU1ikBMB5E8iaGfkrpygeaby",
+  "solana_explorer_mint": "https://explorer.solana.com/address/9wPHAYpG1eH2EagV3fQBXmBPyPMH8pFEAijxaRMf1XVB?cluster=devnet",
+  "timestamp": "2026-10-26 16:16:05 UTC"
+}
